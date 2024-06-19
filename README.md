@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil 😁
+## Bem-vindo(a) ao meu perfil! 🦔🐢🦀🦚
 
  <div>
    <a href="https://github.com/Daniel-APJ">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-APJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-APJ&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-APJ&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-APJ&layout=compact&langs_count=6&theme=shades-of-purple"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para mais conteúdo sobre mim, siga-me nas redes sociais abaixo:
  
 <div> 
   <!--
